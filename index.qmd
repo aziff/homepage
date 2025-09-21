@@ -1,0 +1,15 @@
+---
+title: "Anna L. Ziff"
+---
+
+::: {style="display: flex; align-items: flex-start; gap: 5rem;"}
+
+I am an **Assistant Professor of Economics** at Texas A&M University. My research is in public economics, with a focus on urban and environmental issues. I study how place shapes economic outcomes and the effects of place-based policies, with attention to the methodological issues involved in studying the importance of place.
+
+
+
+![](images/AnnaZiff_Headshot.jpg){width=1300px fig-alt="Headshot of Anna Ziff."}
+
+
+:::
+

@@ -1,0 +1,115 @@
+
+/* Created using ChatGPT */
+/* === Zephyr + Texas A&M Branding === */
+
+/* Base body and text */
+body {
+  background-color: #ffffff; /* White */
+  color: #202020;            /* Gray 900 */
+  font-family: "Inter", "Helvetica Neue", Arial, sans-serif;
+  line-height: 1.6;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  color: #500000; /* Aggie Maroon */
+  font-weight: 600;
+  letter-spacing: 0.5px;
+}
+
+/* Links */
+a {
+  color: #500000;
+  text-decoration: none;
+  font-weight: 500;
+}
+a:hover, a:focus {
+  color: #732f2f; /* Brand Light */
+  text-decoration: underline;
+}
+
+/* Navbar */
+.navbar {
+  background-color: #ffffff !important;
+  border-bottom: 2px solid #eaeaea; /* Gray 200 */
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+.navbar a, .navbar-brand {
+  color: #500000 !important;
+  font-weight: 600;
+}
+.navbar a:hover, .navbar-brand:hover {
+  color: #732f2f !important;
+}
+
+/* Buttons */
+.btn-primary {
+  background-color: #500000;
+  border-color: #500000;
+  border-radius: 0.5rem; /* Zephyr = softer rounded */
+  font-weight: 500;
+}
+.btn-primary:hover, .btn-primary:focus {
+  background-color: #732f2f;
+  border-color: #732f2f;
+}
+
+.btn-outline-primary {
+  color: #500000;
+  border-color: #500000;
+  border-radius: 0.5rem;
+}
+.btn-outline-primary:hover {
+  background-color: #500000;
+  color: #ffffff;
+}
+
+/* Tables */
+table {
+  border: 1px solid #d1d1d1; /* Gray 300 */
+  border-radius: 0.5rem;
+  overflow: hidden;
+}
+thead {
+  background-color: #f6f6f6; /* Gray 100 */
+  color: #500000;
+}
+tbody tr:nth-child(even) {
+  background-color: #f6f6f6; /* Alternating rows */
+}
+
+/* Code blocks */
+pre, code {
+  background-color: #f6f6f6;
+  color: #3c001c; /* Brand Dark */
+  border-radius: 6px;
+  padding: 0.25rem 0.5rem;
+  font-size: 0.9rem;
+}
+
+/* Section styling */
+.section {
+  padding: 2rem;
+  margin-bottom: 2rem;
+}
+.section.alt {
+  background-color: #f6f6f6;
+  border-radius: 0.75rem;
+  padding: 2rem;
+}
+
+/* Footer */
+footer {
+  background-color: #f6f6f6;
+  color: #535353; /* Gray 700 */
+  padding: 1rem;
+  text-align: center;
+  border-top: 3px solid #500000;
+}
+footer a {
+  color: #500000;
+  font-weight: 500;
+}
+footer a:hover {
+  color: #732f2f;
+}
