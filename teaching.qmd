@@ -1,0 +1,30 @@
+---
+title: "Teaching"
+---
+
+# Courses at Texas A&M
+
+## Data Science for Economic and Social Issues 
+
+* Course for undergraduate and masters students about data science and methods in causal inference
+* <a href="files/AnnaZiff_ECON470_Syllabus.pdf" target="_blank">
+  Syllabus
+</a>
+* <a href="https://aziff.github.io/data-science-for-economic-and-social-issues.github.io/" target="_blank"> Class Notes </a>
+
+## Graduate Public Economics 
+
+* Course in public economics sequence for second-year Ph.D. students 
+* <a href="files/AnnaZiff_ECON603_Syllabus.pdf" target="_blank">
+  Syllabus
+</a>
+* Class notes forthcoming
+
+---
+
+# Digital Accessibility Resources
+
+Digital accessibility refers to ensuring that everyone, including those with disabilities, can use posted materials. Federal law dictates that all online materials must be accessible by April 2026. This includes class materials posted to online learning platforms such as Canvas. The below notes include instructions and tips to make code notebooks and LaTeX documents accessible. Check back for updates after forthcoming updates from LaTeX.
+
+* <a href="https://aziff.github.io/digital-accessibility-economists/" target="_blank">
+Notes on Digital Accessibility for Code Notebooks and LaTeX </a>
